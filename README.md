@@ -2,7 +2,7 @@
 
 An intelligent, multi-client SaaS platform where users can upload their own PDF files and ask GPT-powered questions about the content. Built with LangChain, OpenAI, Streamlit, and FAISS. Premium gating simulated for demo or client testing.
 
-![Screenshot]![01](https://github.com/user-attachments/assets/568c0ca7-fda9-41ef-bcbf-1a938bad2d38)
+![Screenshot](https://github.com/user-attachments/assets/568c0ca7-fda9-41ef-bcbf-1a938bad2d38)
 
 ---
 
