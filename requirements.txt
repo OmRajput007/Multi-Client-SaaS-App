@@ -5,3 +5,4 @@ faiss-cpu
 PyPDF2
 python-dotenv
 stripe
+langchain-community
